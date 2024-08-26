@@ -1,0 +1,4 @@
+configparser=7.0.0
+lxml==5.2.2
+natsort==8.4.0
+PySide6==6.7.2
